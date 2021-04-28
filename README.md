@@ -14,5 +14,20 @@ The 16 MIL methods used in our experiments are listed and categorized as below:
 | Bag-space (BS)  | CkNN,	NSK-SVM,	EMD-SVM,	miGraph,	MInD |
 | Embedded-space (ES)  | MILES,	BoW,	CCE,	MI-Net |
 
+### Software
+* mi-Net and MI-Net [[1]](#1): https://github.com/yanyongluan/MINNs
+* Other methods [[2]](#2): https://github.com/macarbonneau/MILSurvey
+
+## References
+<a id="1">[1]</a> 
+Wang, X., Yan, Y., Tang, P., Bai, X., & Liu, W. (2018).
+Revisiting multiple instance neural networks.
+PPattern Recognition, 74, 15-24.
+
+<a id="2">[2]</a> 
+Carbonneau, M. A., Cheplygina, V., Granger, E., & Gagnon, G. (2018).
+Multiple instance learning: A survey of problem characteristics and applications.
+Pattern Recognition, 77, 329-353.
+
 
 
